@@ -32,3 +32,6 @@ jobs:
 
       - name: Finalizar pipeline
         run: echo "Pipeline ejecutado correctamente."
+
+      - name: Mostrar mensaje de éxito
+        run: echo "¡Pipeline completado con éxito!"
