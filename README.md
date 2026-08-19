@@ -13,5 +13,3 @@ git checkout -b feature/12345_update_readme
 git push -u origin feature/12345_update_readme
 
 ```
-## Seccion pendiente
-TODO: completar la informacion del proyecto.
